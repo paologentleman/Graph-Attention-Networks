@@ -9,6 +9,6 @@ University project for the course "Neural Networks for Data Science". The aim of
 [![Tensorflow](https://camo.githubusercontent.com/7ce7d8e78ad8ddab3bea83bb9b98128528bae110/68747470733a2f2f616c65656e34322e6769746875622e696f2f6261646765732f7372632f74656e736f72666c6f772e737667)](https://www.tensorflow.org/)
 
 
-Solarized dark             |  Solarized Ocean
+Graph Attention Network             |  T-sne
 :-------------------------:|:-------------------------:
 ![](imgs/GAT.png)          |  ![](imgs/tsne.png)
