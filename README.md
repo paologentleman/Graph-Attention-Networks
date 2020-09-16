@@ -11,4 +11,4 @@ University project for the course "Neural Networks for Data Science". The aim of
 
 Graph Attention Network             |  T-sne
 :-------------------------:|:-------------------------:
-<img src="imgs/GAT.png" width="300" height="300">         |  <img src="imgs/tsne.png" width="400" height="400">
+<img src="imgs/GAT.png" width="500" height="300">         |  <img src="imgs/tsne.png" width="400" height="400">
