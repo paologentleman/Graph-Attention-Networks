@@ -5,7 +5,6 @@ University project for the course "Neural Networks for Data Science". The aim of
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_sM-H1aQP1YJ2yibsqDNOG5VyfzfUPyL?usp=sharing)
-[![HitCount](http://hits.dwyl.com/paologentleman/Graph-Attention-Networks.svg)](http://hits.dwyl.com/paologentleman/Graph-Attention-Networks)
 [![Tensorflow](https://camo.githubusercontent.com/7ce7d8e78ad8ddab3bea83bb9b98128528bae110/68747470733a2f2f616c65656e34322e6769746875622e696f2f6261646765732f7372632f74656e736f72666c6f772e737667)](https://www.tensorflow.org/)
 
 
